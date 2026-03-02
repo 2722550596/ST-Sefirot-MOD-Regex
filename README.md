@@ -37,7 +37,7 @@
 （神弃之地的内容推荐和这个MOD一起用https://discord.com/channels/1456496749022806193/1475148875445567510）
 
 
-v0.5版本-开发者 @WatcherNinth
+### v0.5版本-开发者 @WatcherNinth
 
 修正星界抽卡系统的bug和提示词（提示词还需要进一步更新）
 
